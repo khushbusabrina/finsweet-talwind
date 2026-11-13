@@ -1,15 +1,13 @@
-import { HiAcademicCap } from "react-icons/hi";
 
+
+import Homeindex from "./Pages/Home/Homeindex";
 
 function App() {
- 
-
   return (
     <>
-    
-
+      <Homeindex />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
